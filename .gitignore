@@ -31,3 +31,4 @@ build/
 
 ### VS Code ###
 .vscode/
+src/main/java/com/kipper/Emailservice/application/accessKeys/AccessKey.java

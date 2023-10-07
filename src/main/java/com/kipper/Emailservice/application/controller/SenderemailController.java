@@ -1,7 +1,6 @@
 package com.kipper.Emailservice.application.controller;
 
 
-import com.amazonaws.Response;
 import com.kipper.Emailservice.application.controller.dto.EmailRequestdto;
 import com.kipper.Emailservice.application.service.SenderEmailService;
 import org.springframework.beans.factory.annotation.Autowired;

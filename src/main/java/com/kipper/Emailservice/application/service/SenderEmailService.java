@@ -18,7 +18,6 @@ public class SenderEmailService implements SendEmail {
 
     @Override
     public void sendEmail(String to, String subject, String text) {
-
         emailSender.sendEmail(to, subject, text);
     }
 }

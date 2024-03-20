@@ -17,8 +17,4 @@ O projeto inclui testes unitários para garantir a robustez e confiabilidade do 
 - **AWS SDK for Java SES**: Biblioteca para interagir com o Amazon SES.
 - **JUnit**: Framework de teste unitário para Java.
 
-## Contribuindo
 
-Sinta-se à vontade para contribuir com melhorias para este projeto! Você pode abrir uma issue para discutir novos recursos ou problemas encontrados, ou enviar um pull request com suas alterações.
-
-## Licença
